@@ -1,0 +1,19 @@
+import java.util.io;
+import java.util.Scanner;
+import java.util.text;
+import java.util.math;
+public class Solution
+{
+public static void main(String[] args)
+{
+String str1 = "abc";
+String str2 = "cde";
+if(str1 > str2)
+{
+System.out.println("Some values are true");
+}
+else if(str1 < str2)
+{
+System.out.println("Some values are false");
+}
+}
